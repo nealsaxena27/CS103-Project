@@ -1,5 +1,7 @@
 # CS103_Project
 # CS103 Group Project Website
+## Website
+https://erbium84.github.io/CS103_Project/
 
 ## main.html
 This is the document for the home page. All content required has been completely done by me. All pages have been interlinked with each other completely.
