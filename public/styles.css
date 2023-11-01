@@ -1,0 +1,79 @@
+body{
+    background-image: linear-gradient(#CBF1F5,#00ADB5);
+    color: #eeeeee;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: linear-gradient(#393d46, #575562);
+  }
+
+li{
+    float: left;
+}
+
+li a {
+    width: 210px;
+    display: block;
+    color: #eeeeee;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover, th:hover {
+    background-color: #212832;
+    color: white;
+}
+
+table{
+    width: 100%;
+}
+
+td, th{
+    text-align: center;
+    font-family: ''Times New Roman', Times, serif;'
+}
+
+
+#hometable td img{
+    width: 320px;
+    height: 200px;
+    border-radius: 8px;
+}
+#hometable{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#aboutustable td, th{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+form table{
+    background-color: #393d46;
+    color: #eeeeee;
+    text-align: left;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+#contactlabel{
+    width: 30%;
+    text-align: left;
+}
+
+footer{
+    background-color: #393d46;
+    font-family: 'Times New Roman', Times, serif;
+    color: #eeeeee;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
