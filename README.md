@@ -23,14 +23,19 @@ My idea for this page is that it should be a form check-boxes for each dish to a
 A single CSS document for all the pages. All pages linked with this CSS file.
 
 ## Other details
-All the image names, class names, id names are self-explanatory in my opinion.
-The navigation bar code has been implemented using unordered list tags in all the pages to maintain uniformity.
-I have also added a footer in all the pages, and set it's postion fixed to bottom.
-All body and tables have been center aligned with font Times New Roman, and the width has been set to 100% (except for form, for which width was set to 90%)
-For making all images equal-sized in the home page, I have fixed the image size using width and height.
+<ul>
+<li>All the image names, class names, id names are self-explanatory in my opinion.</li>
+<li>The navigation bar code has been implemented using unordered list tags in all the pages to maintain uniformity.</li>
+<li>I have also added a footer in all the pages, and set it's postion fixed to bottom.</li>
+<li>All body and tables have been center aligned with font Times New Roman, and the width has been set to 100% (except for form, for which width was set to 90%)</li>
+<li>For making all images equal-sized in the home page, I have fixed the image size using width and height.</li>
+</ul>
+
 
 Color distribution (as per the pallete you sent) used by me is as follows:
-for background, the blue color.
-for text, the white color.
-for nav bar, and footer, the grey-black color.
-and for the hovers, the black color.
+<ul>
+<li>for background, the blue color.</li>
+<li>for text, the white color.</li>
+<li>for nav bar, and footer, the grey-black color.</li>
+<li>and for the hovers, the black color.</li>
+</ul>
