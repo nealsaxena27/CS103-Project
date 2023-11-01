@@ -1,6 +1,7 @@
 body{
     background-image: linear-gradient(#CBF1F5,#00ADB5);
     color: #eeeeee;
+    min-height: 100vh;
 }
 
 
@@ -14,6 +15,8 @@ ul {
 
 li{
     float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gold;
 }
 
 li a {
@@ -31,7 +34,8 @@ li a:hover, th:hover {
 }
 
 table{
-    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 td, th{
@@ -76,4 +80,24 @@ footer{
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+.contactus {
+    margin-top: 20%;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    background-color: #393d46;
+    height: 70%;
+    box-shadow: 0 0 15px #ceb61a;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.contactus_table, th, td{
+    padding: 5px;
+}
+p.bottom_text_contactus{
+    color: gold;
 }
