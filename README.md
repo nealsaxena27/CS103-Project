@@ -24,7 +24,7 @@ A single CSS document for all the pages. All pages linked with this CSS file.
 
 ## Other details
 All the image names, class names, id names are self-explanatory in my opinion.
-The navigation bar code has been implemented using <ul> and <li> tags in all the pages to maintain uniformity.
+The navigation bar code has been implemented using '<ul> and <li>' tags in all the pages to maintain uniformity.
 I have also added a footer in all the pages, and set it's postion fixed to bottom.
 All body and tables have been center aligned with font Times New Roman, and the width has been set to 100% (except for form, for which width was set to 90%)
 For making all images equal-sized in the home page, I have fixed the image size using width and height.
