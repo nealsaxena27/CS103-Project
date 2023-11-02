@@ -104,3 +104,24 @@ p.bottom_text_contactus{
 #aboutus_para{
     color: #393d46;
 }
+
+#veg_menu{
+    border: 1px solid;
+    padding: 10px;
+    background-image: linear-gradient(rgb(200,200,200),white) ;
+    width: 90%;
+    color: #212832 ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+#veg_menu td,th{
+    padding: 10px;
+}
+
+#veg_menu a img{
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+    box-shadow: 0 0 15px #ceb61a;
+}
