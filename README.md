@@ -4,7 +4,7 @@
 https://erbium84.github.io/CS103_Project/
 
 ## index.html
-This is the document for the home page. All content required has been completely done by me. All pages have been interlinked with each other completely.
+This is the document for the home page. All content required has been completely done by me. All pages have been interlinked with each other completely.<br>
 Update [02-Nov-23]: updated main -> index due to github restrictions
                     changed the background to look less dated amongst other visual changes
 
@@ -12,7 +12,7 @@ Update [02-Nov-23]: updated main -> index due to github restrictions
 This is the document for the about us section. I have added a basic documentation for our website, and our names and roll numbers. So all the content has been completed by me.
 
 ## contactus.html
-This is the document for the contact us section. Have used form for it. Aesthetically, it isn't looking nice. I hope you'll make it much better.
+This is the document for the contact us section. Have used form for it. Aesthetically, it isn't looking nice. I hope you'll make it much better.<br>
 Update [02-Nov-23]: Simplified and updated it to look nicer, don't touch it as it may ruin it.
 
 ## vegmenu.html
@@ -25,7 +25,7 @@ Same case as vegmenu.html
 My idea for this page is that it should be a form check-boxes for each dish to add to the order, and an ordernow button. For the order now button, instead of using the form buttons, we can create a block using div and padding etc, to make it look an appealing button and then hve it linked to a feedback page. Havent't done it yet.
 
 ## styles.css
-A single CSS document for all the pages. All pages linked with this CSS file.
+A single CSS document for all the pages. All pages linked with this CSS file.<br>
 Update [02-Nov-23]: Updated it to contain further styling for modifications made
 
 ## Other details
