@@ -10,7 +10,7 @@ Update [02-Nov-23]: updated main -> index due to github restrictions
 
 ## aboutus.html
 This is the document for the about us section. I have added a basic documentation for our website, and our names and roll numbers. So all the content has been completed by me.
-
+<br>Updated font bg
 ## contactus.html
 This is the document for the contact us section. Have used form for it. Aesthetically, it isn't looking nice. I hope you'll make it much better.<br>
 Update [02-Nov-23]: Simplified and updated it to look nicer, don't touch it as it may ruin it.
