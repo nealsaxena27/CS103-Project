@@ -146,3 +146,26 @@ p.bottom_text_contactus{
     border-radius: 20px;
     box-shadow: 0 0 15px #ceb61a;
 }
+#ordernow_table{
+    background-color: #393d46;
+    width: 40%;
+    height: 60%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ordernow_div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #393d46;
+    box-shadow: 0 0 15px #2dc420;
+    width: 50%;
+}
+#veg_icon{
+    width: 13px;
+    height: 13px;
+}
+#nveg_icon{
+    width: 13px;
+    height: 13px;
+}
